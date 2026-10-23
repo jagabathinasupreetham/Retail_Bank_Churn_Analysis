@@ -37,7 +37,8 @@ The main objectives are to:
 3. **SQL Analysis:** Developed additional queries to investigate average account balance, estimated salary, credit-card ownership among churned customers, and churn across tenure groups.
 4. **Dashboard Development:** Created a Tableau dashboard to communicate customer churn metrics and segment-level patterns.
 5. **Business Interpretation:** Identified patterns that may help the bank investigate customer retention opportunities.
-6. ![dashboard_preview]:(Dashboard.png)
+
+## ![Retail Bank Customer Churn Analysis Dashboard](Dashboard.png)
 
 ## Key Performance Indicators
 
@@ -140,12 +141,11 @@ A suggested repository structure is:
 
 ```text
 Retail-Bank-Customer-Churn-Analysis/
-│
 ├── README.md
+├── Dashboard.png
 ├── churn_data_cleaning&eda.ipynb
 ├── cleaned_churn_data.csv
-├── bank_churn_analysis.sql
-└── Dashboard.png
+└── bank_churn_analysis.sql
 ```
 
 ## Conclusion
